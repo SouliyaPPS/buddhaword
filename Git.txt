@@ -4,3 +4,6 @@ git commit -m "Lastest"
 git branch -M main
 git remote add origin https://github.com/SouliyaPPS/buddhaword.git
 git push -u origin main
+
+
+git push --set-upstream origin main
